@@ -16,6 +16,8 @@ Key metrics and behavioral patterns form the basis for this strategic approach. 
 
 ## SQL Database Design
 
+[Travel_Tide_SQL](Daten/SQL Query Projekt Travel Tide.pdf)
+
 ## Data-based analysis
 
 Data Analysis Foundation Travel Tide's segmentation strategy is built on robust data requirements including 4,413 total users analyzed. 
