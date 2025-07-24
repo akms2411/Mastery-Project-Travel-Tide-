@@ -1,4 +1,4 @@
---- Elena proposes to only include sessions:
+-- Elena proposes to only include sessions:
 -- After Jan 4 2023 - sessions CHECK
 -- From Users with more than 7 Sessions in the selected time frame
 -- check in time should be set to 11.00 to calculate the nights correctly
