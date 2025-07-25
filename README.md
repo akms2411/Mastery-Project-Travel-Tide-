@@ -6,13 +6,13 @@ Key metrics and behavioral patterns form the basis for this strategic approach. 
 
 ## Project Description
 
-1. Datenanalyse & Grundlagen
-2. Segmentierung & Kategorisierung
-3. Perk-Entwicklung
-4. Visualisierung & Präsentation
-5. Strategische Empfehlungen
-6. Implementierungsplanung
-7. Risikomanagement
+1. Data analysis & fundamentals
+2. Segmentation & categorization
+3. Perk development
+4. Visualization & Presentation
+5. Strategic recommendations
+6. implementation planning
+7. risk management
 
 ## SQL Database Design
 
