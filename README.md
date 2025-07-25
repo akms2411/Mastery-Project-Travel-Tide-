@@ -16,7 +16,7 @@ Key metrics and behavioral patterns form the basis for this strategic approach. 
 
 ## SQL Database Design
 
-[Travel_Tide_SQL](Daten/SQL Query Projekt Travel Tide.pdf)
+Link coming soon
 
 ## Data-based analysis
 
